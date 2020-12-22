@@ -37,17 +37,17 @@ module.exports = {
           title: 'Docs',
           items: [
             {
-              label: 'Style Guide',
-              to: 'docs/',
+              label: 'Markdown Examples',
+              to: 'docs/doc1',
             },
-            {
-              label: 'Second Doc',
-              to: 'docs/doc2/',
-            },
+ //           {
+ //             label: 'Second Doc',
+ //             to: 'docs/doc2/',
+ //           },
           ],
         },
         {
-          title: 'Community',
+          title: 'Docusaurus',
           items: [
             {
               label: 'Stack Overflow',
@@ -72,12 +72,12 @@ module.exports = {
             },
             {
               label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              href: 'https://github.com/cpoff/docusaurus',
             },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `©${new Date().getFullYear()} All rights reserved. Built with Docusaurus.`,
     },
   },
   presets: [
