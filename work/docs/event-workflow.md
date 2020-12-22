@@ -1,7 +1,7 @@
 ---
 title: Event Workflow
 sidebar_label: Event Workflow
-slug: event-workflow
+slug: /
 ---
 export const Highlight = ({children, color}) => ( <span style={{
       backgroundColor: color,
