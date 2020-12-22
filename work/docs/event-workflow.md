@@ -46,18 +46,19 @@ The website version of the event will be an exact mirror of the Outlook event pu
 ## Document naming convention
 COMMITTEE ACRONYM YYYY-MM-DD TITLE OF CONTENTS.pdf
 
-:::warning
-Stick to this strict guidline. No extra words or numerals (e.g. `final_ss`, `030120 FINAL`, etc.)
-Spaces are fine. But no punctuation is allowed except dash (`-`) and underscore (`_`). No exceptions.
-:::
 
 Examples:<br />
-RTACAC YYYY-MM-DD Safety Subelements Handout.pdf<br />
-RTATMC YYYY-MM-DD Agenda.pdf<br />
-RTACART YYYY-MM-DD Legal Actions.pdf<br />
-RTABoard YYYY-MM-DD Item_5A Project Delivery Status Report.pdf<br />
-POPTECH YYYY-MM-DD Meeting Minutes.pdf<br />
-PAGTIPSUB YYYY-MM-DD Presentation_1 Slides That Were Shown.pdf
+RTACAC 2021-01-01 Safety Subelements Handout.pdf<br />
+RTATMC 2020-02-01 Agenda.pdf<br />
+RTACART 2018-03-15 Legal Actions.pdf<br />
+RTABoard 2020-12-01 Item_5A Project Delivery Status Report.pdf<br />
+POPTECH 2019-03-01 Meeting Minutes.pdf<br />
+PAGTIPSUB 2020-06-05 Presentation_1 Slides That Were Shown.pdf
+
+:::warning
+Stick to this strict guidline. No extra words or numerals in the title (e.g. `final_ss`, `030120 FINAL`, etc.).
+Spaces are fine, but no punctuation is allowed except dash (`-`) and underscore (`_`). No exceptions.
+:::
 
 ## What calendars show on each site?
 
