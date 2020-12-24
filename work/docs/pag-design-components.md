@@ -6,5 +6,5 @@ slug: pag-design-components
 
 ## Style guide
 
-![](../static/img/PAG Web Style Guide_072720 FINAL3_1.png)
-![](../static/img/PAG Web Style Guide_072720 FINAL3_2.png)
+![](../static/img/PAG_Web_Style_Guide_072720_FINAL3_1.jpg)
+![](../static/img/PAG_Web_Style_Guide_072720_FINAL3_2.jpg)
