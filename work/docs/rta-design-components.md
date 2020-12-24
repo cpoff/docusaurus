@@ -4,7 +4,10 @@ date: 2018-09-15
 slug: rta-design-components
 ---
 
+## Style guide
 
+![](../static/img/RTA_Web_Style_Guide_v2_051420_1.jpg)
+![](../static/img/RTA_Web_Style_Guide_v2_051420_2.jpg)
 
 Kristin will produce and maintain all CSS assets in Generate Press:
 

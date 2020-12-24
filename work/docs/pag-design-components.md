@@ -8,3 +8,4 @@ slug: pag-design-components
 
 ![](../static/img/PAG_Web_Style_Guide_072720_FINAL3_1.jpg)
 ![](../static/img/PAG_Web_Style_Guide_072720_FINAL3_2.jpg)
+
