@@ -1,7 +1,7 @@
 module.exports = {
   title: 'Documentation',
   tagline: 'The cool site Curt built all on his own',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://cdocs.surge.sh/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',

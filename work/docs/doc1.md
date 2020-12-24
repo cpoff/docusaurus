@@ -1,7 +1,7 @@
 ---
 id: doc1
 title: Markdown Examples
-sidebar_label: Markdown Examples
+sidebar_label: Markdown
 ---
 
 You can write content using [GitHub-flavored Markdown syntax](https://github.github.com/gfm/).

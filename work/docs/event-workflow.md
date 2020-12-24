@@ -1,6 +1,6 @@
 ---
 title: Event Workflow
-sidebar_label: Event Workflow
+sidebar_label: Events
 slug: /
 ---
 export const Highlight = ({children, color}) => ( <span style={{
@@ -13,13 +13,15 @@ export const Highlight = ({children, color}) => ( <span style={{
 
 ## Create event in Outlook Calendar
 
--Create a new event. Best to use the Office 365 version of Outlook in a web browser.<br />
--Select site calendar where you want the event to appear: PAG-Main, RTA-Main (includes RTA & RTAnext), or PAG/RTA-Shared (appears on both sites)<br />
--Add standard date, start/end times, reminder (optional)<br />
--Add only internal attendees (e.g. committee chair + Sheila) and no external attendees. (External attendees will be added later, after the event is fully produced.)<br />
--Reserve conference room, or select Virtual<br />
--Go into Response Options, select <Highlight color="#1877F2">Hide Attendee List</Highlight> and Allow Forwarding. Leave Request Responses unchecked for virtual meetings and checked if we host the meeting at PAG. <br />
+-Create a new event. Best to use the Office 365 version of Outlook in a web browser, as seen in the window below.<br />
+-Select site calendar (A) where you want the event to appear: PAG-Main, RTA-Main (includes RTA & RTAnext), or PAG/RTA-Shared (appears on both sites)<br />
+-Add standard date (B), start/end times, reminder (optional)<br />
+-Add only internal attendees (e.g. committee chair + Sheila) and no external attendees (C). External attendees will be added later, after the event is fully produced.<br />
+-Reserve conference room (D), or select Virtual<br />
+-Go into Response Options (E), select <Highlight color="#1877F2">Hide Attendee List</Highlight> and Allow Forwarding. Leave Request Responses unchecked for virtual meetings and checked if we host the meeting at PAG. <br />
 -Send<br />
+
+![](../static/img/calendar_steps900.png)
 
 :::note
 The <Highlight color="#1877F2">Hide Attendee List</Highlight> is only available using Outlook in Office 365. So you'll need to edit the event using a web browser.
@@ -31,7 +33,7 @@ That creates your new meeting/event without making it visible to the public. At 
 
 Two things require approvals: the associated documents, and the meeting itself. 
 
--Sheila will deliver approved documents through a separate workflow, and those docs should be attached to the meeting in Outlook. Documents require [specific naming convention](/docs/#document-naming-convention).
+-Sheila will deliver approved documents through a separate workflow, and those docs should be attached to the meeting in Outlook. Documents require specific naming convention. [See below](/docs/#document-naming-convention).
 
 -Approval for the meeting as a whole (the final go-ahead) will also come from Sheila. Once approval is given, go into the event in Outlook and add the <Highlight color="#25c2a0">Green</Highlight> category. 
 
@@ -56,7 +58,7 @@ POPTECH 2019-03-01 Meeting Minutes.pdf<br />
 PAGTIPSUB 2020-06-05 Presentation_1 Slides That Were Shown.pdf
 
 :::warning
-Stick to this strict guidline. No extra words or numerals in the title (e.g. `final_ss`, `030120 FINAL`, etc.).
+Stick to this strict guidline. No extra words, characters, or numerals in the title (e.g. `final_ss`, `030120 UPDATE`, etc.).
 Spaces are fine, but no punctuation is allowed except dash (`-`) and underscore (`_`). No exceptions.
 :::
 

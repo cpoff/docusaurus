@@ -1,6 +1,7 @@
 module.exports = {
   someSidebar: {
-    Events: ['event-workflow'],
-    Docusaurus: ['doc1'],
+    Workflows: ['event-workflow', 'post-prod', 'video-prod'],
+    Styles: ['pag-design-components', 'rta-design-components'],
+    Examples: ['doc1'],
   },
 };
