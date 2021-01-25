@@ -1,6 +1,6 @@
 module.exports = {
-  title: 'Documentation',
-  tagline: 'The cool site Curt built all on his own',
+  title: "Curt's Documentation",
+  tagline: 'Earn that money.',
   url: 'https://cdocs.surge.sh/',
   baseUrl: '/',
   onBrokenLinks: 'throw',

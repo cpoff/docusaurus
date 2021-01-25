@@ -10,7 +10,7 @@ This feature allows use of third-party video platforms (YouTube, Vimeo, etc.). U
 
 The first element in the right sidebar of the WP Post admin is Featured Video. There's a single field where you enter the URL. You also have the option to select a video file from the media library but that's a workaround, not the default. Enter a YouTube URL (the short one you get from the YT 'Share' interface).
 
-Once the feature video is designated, you have options:
+Once the feature video is designated, you can then embed it with a simple shortcode:
 
 ## Embed the video in the Post
 
@@ -27,6 +27,8 @@ That's done using one of two shortcodes:
 -Displays the video with a width of X pixels. Height will be fitted such that the aspect ratio is preserved. Should only be used in specific cases where an exact size is needed.
 
 ## Display video on index page
+
+*Speak to Curt before attempting this. It's a unique case.*
 
 This one is trickier because it requires you use the video as the feature image. And the featured image slot varies in size depending on the index page logic. The prototype proven on RTA Next displayed well in the two-column presentation on the homepage, but not so well elsewhere around the site when the image size specifications changed. So we'll have to make special criteria on how this is used.
 

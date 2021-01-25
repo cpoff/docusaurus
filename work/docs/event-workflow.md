@@ -64,7 +64,7 @@ Spaces are fine, but no punctuation is allowed except dash (`-`) and underscore 
 
 ## What calendars show on each site?
 
-| Sites       |  PAG-Main Calendar |   RTA-Main Calendar  |   PAG/RTA-Shared Calendar  |
+|        |  PAG-Main Calendar |   RTA-Main Calendar  |   PAG/RTA-Shared Calendar  |
 |-------------|--------------------|----------------------|----------------------------|
 |   PAG       |          X         |                      |              X             |
 |   RTA       |                    |           X          |              X             |

@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@docusaurus/plugin-ideal-image": "^2.0.0-alpha.70",
+    "@docusaurus/plugin-sitemap": "^2.0.0-alpha.70"
+  },
+  "devDependencies": {
+    "@mdx-js/loader": "^1.6.22"
+  }
+}
